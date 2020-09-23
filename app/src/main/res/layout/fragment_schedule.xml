@@ -12,6 +12,7 @@
         tools:listitem="@layout/item_schedule"/>
 
     <RelativeLayout
+        android:id="@+id/rlBaseSchedule"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
