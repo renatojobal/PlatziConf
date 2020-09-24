@@ -5,7 +5,7 @@ We also use the latest components and libraries from Android Jetpack.
 The most likely thing that I learnt was the Navigation Component.
 
 Here is the final result:
-
+<img src="screenshots/splashscreen.jpeg" width="350" title="splashscreen">
 ![splashscreen](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/splashscreen.jpeg)
 ![home](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/home.jpeg)
 ![schedule](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/schedule.jpeg)
