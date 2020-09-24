@@ -3,7 +3,7 @@ package com.platzi.conf.model
 import java.io.Serializable
 
 class Ubication : Serializable{
-    val name = "Centro CUltural ROberto Cantoral"
+    val name = "Centro Cultural Roberto Cantoral"
     val address = "Puente Xoco s/n, Xoco, 03330 Ciudad de México, CDMX"
     val latitude = 19.362028
     val longitude = -99.166414

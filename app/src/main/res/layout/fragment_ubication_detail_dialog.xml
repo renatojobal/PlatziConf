@@ -48,7 +48,8 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:background="@drawable/shape_parrafo">
 
                         <TextView
                             android:id="@+id/tvDetailNombreLugar"
@@ -60,6 +61,11 @@
                             android:textSize="30sp"
                             android:textStyle="bold"
                             tools:text="Lugar Platzi Conf" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:background="@color/colorPrimary"/>
 
                         <LinearLayout
                             android:layout_width="match_parent"
