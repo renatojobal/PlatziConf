@@ -15,5 +15,5 @@ Here is the final result:
 <img src="screenshots/speaker.jpeg" width="350" title="speaker">
 <img src="screenshots/detail_speaker.jpeg" width="350" title="detail_speaker">
 <img src="screenshots/map.jpeg" width="350" title="map">
-<img src="screenshots/detail_map.jpeg" width="350" title="detail_map">
+<img src="screenshots/detailed_map.jpeg" width="350" title="detail_map">
 </p>
