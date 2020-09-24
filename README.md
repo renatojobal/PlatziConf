@@ -5,14 +5,15 @@ We also use the latest components and libraries from Android Jetpack.
 The most likely thing that I learnt was the Navigation Component.
 
 Here is the final result:
-<img src="screenshots/splashscreen.jpeg" width="350" title="splashscreen">
-![splashscreen](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/splashscreen.jpeg)
-![home](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/home.jpeg)
-![schedule](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/schedule.jpeg)
-![detail_schedule](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/detail_schedule.jpeg)
-![speaker](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/speaker.jpeg)
-![detail_speaker](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/detail_speaker)
-![map](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/map.jpeg)
-![detail_map](https://github.com/renatojobal/PlatziConf/blob/master/screenshots/detail_map)
 
+-----------------------
+
+<img src="screenshots/splashscreen.jpeg" width="350" title="splashscreen">
+<img src="screenshots/home.jpeg" width="350" title="home">
+<img src="screenshots/schedule.jpeg" width="350" title="schedule">
+<img src="screenshots/detail_schedule.jpeg" width="350" title="detail_schedule">
+<img src="screenshots/speaker.jpeg" width="350" title="speaker">
+<img src="screenshots/detail_speaker.jpeg" width="350" title="detail_speaker">
+<img src="screenshots/map.jpeg" width="350" title="map">
+<img src="screenshots/detail_map.jpeg" width="350" title="detail_map">
 
